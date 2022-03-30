@@ -1,0 +1,159 @@
+header{
+	height: 60px;
+	background-size: cover;
+	background-color: black;
+	bottom: -20px;
+}
+header h1{
+	font-size: 40px;
+	color: gold;
+	top:8px;
+	position: relative;
+	margin-left: 50px;
+}
+/*to design the top background*/
+.top{
+display: inline-block; 
+        margin: 0px;
+        position: relative;
+
+
+}
+.c{
+	width: 1500px;
+        height: 800px;
+        border: 0px solid black;
+        margin: 10px;
+       top: 0px;
+        bottom: -10px;
+        display: table-cell;
+        position: relative;
+}
+
+.c img {
+	height: 100%;  
+        width: 100%; 
+        position: relative;  
+        top: 0px;  
+        bottom: 0px;  
+        left: 0;  
+        right: 0;  
+        margin: 0px;
+        margin-bottom: -430px;
+        display: block;
+
+}
+
+/*2nd image coding starts*/
+
+.b{
+	width: 1500px;
+        height: 850px;
+        border: 0px solid black;
+        margin: 0px;
+        top: -20px;
+        display: table-cell;
+        position: relative;
+}
+.b img {
+	height: 100%;  
+        width: 100%; 
+        position: relative;  
+        top: 0px;  
+        bottom: 0px;  
+        left: 0;  
+        right: 0;  
+        margin: 0px;
+        margin-bottom: -430px;
+        display: block;
+
+}
+
+/*box in the top image*/
+.first{
+width: 400px;
+height:400px;
+top: -150px;
+background-color: rgba(0,0,0,0.6);
+position:relative;
+border-radius:15px;
+font-weight:bolder;
+margin:0 auto;
+margin-top:0px;
+padding-top:30px;
+box-shadow:inset -10px -10px rgba(0,0,0,0.9);
+}
+.first h1{
+	color: gold;
+	margin-top: 70px;
+
+}
+nav a
+{
+margin-top: 30px;
+border: 3px;
+transition: 0.5s ease;
+color: gold;
+text-decoration: none;
+
+}
+/*box in the bottom image*/
+.second{
+width: 400px;
+height:400px;
+top: -200px;
+background-color: rgba(0,0,0,0.6);
+position:relative;
+border-radius:15px;
+font-weight:bolder;
+margin:0 auto;
+margin-top:0px;
+padding-top:30px;
+box-shadow:inset -10px -10px rgba(0,0,0,0.9);
+}
+.second h1{
+	color: gold;
+	margin-top: 70px;
+
+}
+
+nav a:hover
+{
+	cursor:pointer;
+	color:black;
+	background: white;
+
+}
+.menu{
+	width: 50px;
+	height: 20px;
+	border: 1px solid gold;
+	padding:20px;
+	margin:10px;
+
+}
+.menu:hover{
+	cursor: pointer;
+	background: gold;
+}
+.location{
+	width: 100px;
+	height: 20px;
+	border: 1px solid gold;
+	padding:20px;
+	margin:10px;
+}
+.location:hover{
+	cursor: pointer;
+	background: gold;
+}
+
+
+
+
+
+
+
+
+
+}
